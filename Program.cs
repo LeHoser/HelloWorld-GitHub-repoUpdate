@@ -11,6 +11,7 @@ namespace HelloWorld_GitHub_repoUpdate
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("This is an update");
             Console.ReadKey(true);
         }
     }
